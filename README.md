@@ -68,8 +68,3 @@ As credenciais digitadas pelo usuário na página falsa são registradas e exibi
 
 Este guia é **apenas para aprendizado** em **cibersegurança**.
 Nunca utilize em sistemas, contas ou pessoas sem **autorização expressa**.
-
-```
-
-
-```
