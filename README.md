@@ -60,6 +60,8 @@ http://www.facebook.com
 
 As credenciais digitadas pelo usuário na página falsa são registradas e exibidas no terminal.
 
+
+<img width="485" height="394" alt="image" src="https://github.com/william-alexandre/cibersecurity-desafio-phishing-/blob/main/setoolkit.JPG" />
 ---
 
 ## 📌 Observação
@@ -69,6 +71,5 @@ Nunca utilize em sistemas, contas ou pessoas sem **autorização expressa**.
 
 ```
 
-<img width="485" height="394" alt="image" src="https://github.com/user-attachments/assets/c7dfd563-24ef-4b47-afac-001b53388511" />
 
 ```
