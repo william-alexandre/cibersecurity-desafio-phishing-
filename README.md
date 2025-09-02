@@ -1,6 +1,4 @@
-Entendido 🚀
-
-Aqui está o texto formatado em **Markdown** para você usar como `README.md` no GitHub:
+🚀
 
 ````markdown
 # 🎣 Phishing para Captura de Senhas do Facebook
